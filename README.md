@@ -4,6 +4,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/devansh2021/Next-Dev-0.1.0)
 [![Linkedin Badge](https://img.shields.io/badge/devansh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/devansh-nsut/)
 [![Gmail Badge](https://img.shields.io/badge/devsdevansh@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:devsdevansh@gmail.com)
+
 Loosely inspired by Dev.to and Medium.
 Improved web performance by making use of SSR, SSG, and ISR
 techniques.
