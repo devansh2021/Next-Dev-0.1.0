@@ -6,11 +6,14 @@
 [![Gmail Badge](https://img.shields.io/badge/devsdevansh@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:devsdevansh@gmail.com)
 
 Loosely inspired by Dev.to and Medium.
-Improved web performance by making use of SSR, SSG, and ISR
-techniques.
+
+Improved web performance by making use of SSR, SSG, and ISR techniques.
+
 Implemented Firestore CRUD and data modeling techniques.
-![Home](ss-1.png)
+
 [Live Demo](https://next-dev99.vercel.app/)
+![Home](ss-1.png)
+
 
 ## Contributing to this project
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
