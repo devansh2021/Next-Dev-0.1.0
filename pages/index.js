@@ -54,7 +54,7 @@ export default function Home(props) {
 
   return (
     <main>
-      <Metatags title="Home Page" description="this page contains  the latest posts on our site" />
+      <Metatags title="Next Dev" description="Hey guys! Join the community of developers." />
      
       <PostFeed posts={posts} />
 
