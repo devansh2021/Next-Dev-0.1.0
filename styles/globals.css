@@ -6,7 +6,7 @@
   --color-blue: #1D8DEE;
   --color-red: #df3b3b;
   --color-green: #3bdf72;
-  --color-gray: #1D8DEE;
+  --color-lblue: #1D8DEE;
   --color-text2: #1B2737;
   --color-nav: #1B2737;
 }
@@ -72,7 +72,7 @@ code {
   top: 0;
   padding: 0 10vw;
   font-weight: bold;
-  border-bottom: 1px solid var(--color-gray);
+  border-bottom: 1px solid var(--color-lblue);
   z-index: 99;
 }
 
@@ -101,7 +101,7 @@ code {
 /* Buttons */
 
 .btn, button {
-  background-color: var(--color-gray);
+  background-color: var(--color-lblue);
   border: none;
   color: var(--color-text);
   padding: 1rem 2rem;
@@ -179,11 +179,18 @@ button.btn-google {
 /* Cards */
 
 .card {
-  padding: 2rem;
+  padding-left: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-right: 1rem;
   margin: 1rem 0;
   background-color:#1B2737;
-  border: 1px solid var(--color-gray);
+  border: 1px solid var(--color-lblue);
   border-radius: 8px;
+  overflow: auto;
+}
+.card-post {
+  overflow: auto;
 }
 
 .card footer {
